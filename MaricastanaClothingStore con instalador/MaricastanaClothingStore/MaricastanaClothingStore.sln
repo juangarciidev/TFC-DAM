@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaricastanaClothingStore", "MaricastanaClothingStore\MaricastanaClothingStore.csproj", "{04935E73-4060-492C-BE59-98D327D13E0A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador de Maricastaña Clothing Store", "Instalador de Maricastaña Clothing Store\Instalador de Maricastaña Clothing Store.vdproj", "{A16B778B-1AA2-4131-B550-8681981CD2A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04935E73-4060-492C-BE59-98D327D13E0A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{04935E73-4060-492C-BE59-98D327D13E0A}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{04935E73-4060-492C-BE59-98D327D13E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04935E73-4060-492C-BE59-98D327D13E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A16B778B-1AA2-4131-B550-8681981CD2A5}.Debug|Any CPU.ActiveCfg = Debug
+		{A16B778B-1AA2-4131-B550-8681981CD2A5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64808467-625A-4D1F-847E-EC8727BC875E}
+	EndGlobalSection
+EndGlobal

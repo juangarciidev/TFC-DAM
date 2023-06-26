@@ -1,0 +1,146 @@
+﻿<UserControl x:Class="MaricastanaClothingStore.VISTAS.Inicio"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MaricastanaClothingStore.VISTAS" xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+             mc:Ignorable="d" 
+             d:DesignHeight="565" 
+             d:DesignWidth="925"
+             Background="Transparent">
+    <Grid>
+        <!-- REGION CONTENIDO-->
+        <Border 
+          Background="#d1b7ad">
+            <Grid Name="GridTPV">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition Width="180"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="200"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="50"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="20"/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <!--#region VENTAS-->
+                <Border CornerRadius="20,0,0,20"
+                        Background="White"
+                        Grid.Row="1"
+                        Grid.Column="1"/>
+                <Label Grid.Row="1"
+                       Grid.Column="1"
+                       Margin="0,10,0,0"
+                       FontSize="16"
+                       FontWeight="SemiBold"
+                       Content="Ventas totales"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Top"/>
+                <Label x:Name="lblVentasTotales" Grid.Row="1"
+                       Grid.Column="1"
+                       Margin="0,0,0,20"
+                       FontSize="18"
+                       Content="0"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Bottom"/>
+                <Border CornerRadius="0,20,20,0"
+                        Background="#715a52"
+                        Grid.Row="1"
+                        Grid.Column="2">
+                    <Image  Source="/IMAGENES/ventasTotales.png"
+                            HorizontalAlignment="Center" 
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+                </Border>
+                <!--#endregion-->
+                <!--#region ARTICULOS-->
+                <Border CornerRadius="20,0,0,20"
+                        Background="White"
+                        Grid.Row="1"
+                        Grid.Column="4"/>
+                <Label Grid.Row="1"
+                       Grid.Column="4"
+                       Margin="0,10,0,0"
+                       FontSize="18"
+                       FontWeight="SemiBold"
+                       Content="Artículos disponibles"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Top"/>
+                <Label x:Name="lblArtDisponibles" Grid.Row="1"
+                       Grid.Column="4"
+                       Margin="0,0,0,20"
+                       FontSize="18"
+                       Content="0"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Bottom"/>
+                <Border CornerRadius="0,20,20,0"
+                        Background="#715a52"
+                        Grid.Row="1"
+                        Grid.Column="5">
+                    <Image  Source="/IMAGENES/articulosDisp.png"
+                            HorizontalAlignment="Center" 
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+                </Border>
+                <!--#endregion-->
+                <!--region GRÁFICA-->
+                <Border Grid.Column="1"
+                        Grid.Row="3"
+                        Grid.ColumnSpan="5"
+                        Grid.RowSpan="3"
+                        Background="White"
+                        CornerRadius="20"/>
+                <Label Grid.Column="1"
+                       Grid.Row="2"
+                       Grid.ColumnSpan="5"
+                       FontSize="30"
+                       FontWeight="SemiBold"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Content="Top 5 mejores ventas"/>
+                <lvc:CartesianChart Name="Chart" 
+                                    Grid.Row="3" 
+                                    Grid.RowSpan="3"
+                                    Grid.Column="1" 
+                                    Grid.ColumnSpan="5" 
+                                    Margin="15">
+                    <lvc:CartesianChart.Series>
+                        <lvc:LineSeries Values="{Binding Values}" LineSmoothness="1" 
+                                StrokeThickness="2" 
+                                DataLabels="True" 
+                                FontSize="15" 
+                                Foreground="Black"
+                                Stroke="Black" 
+                                Fill="#715a52" 
+                                PointGeometrySize="0"/>
+                    </lvc:CartesianChart.Series>
+                    <lvc:CartesianChart.AxisX>
+                        <lvc:Axis IsEnabled="False" 
+                                  ShowLabels="False"/>
+                    </lvc:CartesianChart.AxisX>
+                    <lvc:CartesianChart.AxisY>
+                        <lvc:Axis Foreground="Black" 
+                                  FontSize="14">
+                            <lvc:Axis.Separator>
+                                <lvc:Separator StrokeThickness="1" 
+                                               Stroke="#715a52" 
+                                               StrokeDashArray="8"/>
+                            </lvc:Axis.Separator>
+                        </lvc:Axis>
+                    </lvc:CartesianChart.AxisY>
+                </lvc:CartesianChart>
+                <!--endregion-->
+            </Grid>
+        </Border>
+        <!-- ENDREGION -->
+
+    </Grid>
+</UserControl>

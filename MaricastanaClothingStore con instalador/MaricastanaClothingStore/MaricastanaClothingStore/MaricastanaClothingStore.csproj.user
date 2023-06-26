@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="VISTAS\CantidadTPV.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="VISTAS\EfectivoTPV.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="VISTAS\TPV.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VISTAS\Articulos.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VISTAS\CantidadTPV.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VISTAS\CRUDArticulos.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VISTAS\CRUDUsuarios.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VISTAS\EfectivoTPV.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VISTAS\Inicio.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VISTAS\Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VISTAS\MiCuenta.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VISTAS\TPV.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VISTAS\Usuarios.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

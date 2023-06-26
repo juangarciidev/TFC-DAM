@@ -1,0 +1,246 @@
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore_MarkupCompile.cache
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore_MarkupCompile.lref
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\MaricastanaClothingStore.exe
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\MaricastanaClothingStore.deps.json
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\MaricastanaClothingStore.runtimeconfig.json
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\MaricastanaClothingStore.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\MaricastanaClothingStore.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\MaricastanaClothingStore.pdb
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\LocalDb.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\TPV.baml
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Articulos.g.cs
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\CantidadTPV.g.cs
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\CRUDArticulos.g.cs
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\CRUDUsuarios.g.cs
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\EfectivoTPV.g.cs
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Inicio.g.cs
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Login.g.cs
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\MiCuenta.g.cs
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\TPV.g.cs
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Usuarios.g.cs
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Articulos.baml
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\CantidadTPV.baml
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\CRUDArticulos.baml
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\CRUDUsuarios.baml
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\EfectivoTPV.baml
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Inicio.baml
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Login.baml
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\MiCuenta.baml
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Usuarios.baml
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.g.resources
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.csproj.CopyComplete
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.dll
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.pdb
+C:\Users\Usuario\Downloads\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\MaricastanaClothingStore.exe
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\MaricastanaClothingStore.deps.json
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\MaricastanaClothingStore.runtimeconfig.json
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\MaricastanaClothingStore.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\MaricastanaClothingStore.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\MaricastanaClothingStore.pdb
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\LocalDb.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\TPV.baml
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Articulos.g.cs
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\CantidadTPV.g.cs
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\CRUDArticulos.g.cs
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\CRUDUsuarios.g.cs
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\EfectivoTPV.g.cs
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Inicio.g.cs
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Login.g.cs
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\MiCuenta.g.cs
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\TPV.g.cs
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Usuarios.g.cs
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore_MarkupCompile.cache
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore_MarkupCompile.lref
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Articulos.baml
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\CantidadTPV.baml
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\CRUDArticulos.baml
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\CRUDUsuarios.baml
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\EfectivoTPV.baml
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Inicio.baml
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Login.baml
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\MiCuenta.baml
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\VISTAS\Usuarios.baml
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.g.resources
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.csproj.CopyComplete
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.dll
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.pdb
+C:\Users\Usuario\Downloads\JuanGarcia_TFC_22-23\MaricastanaClothingStore sin instalador\MaricastanaClothingStore\MaricastanaClothingStore\obj\Debug\netcoreapp3.1\MaricastanaClothingStore.genruntimeconfig.cache

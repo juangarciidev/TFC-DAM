@@ -1,0 +1,267 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <PackageIcon></PackageIcon>
+    <ApplicationIcon>IMAGENES\IconoMaricastana.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="bin\Debug\netcoreapp3.1\Archivos\**" />
+    <EmbeddedResource Remove="bin\Debug\netcoreapp3.1\Archivos\**" />
+    <None Remove="bin\Debug\netcoreapp3.1\Archivos\**" />
+    <Page Remove="bin\Debug\netcoreapp3.1\Archivos\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="IMAGENES\Abrigo.jpg" />
+    <None Remove="IMAGENES\administradora.jpg" />
+    <None Remove="IMAGENES\anonimo.jpg" />
+    <None Remove="IMAGENES\Articulos.png" />
+    <None Remove="IMAGENES\articulosDisp.png" />
+    <None Remove="IMAGENES\ayuda.png" />
+    <None Remove="IMAGENES\BannerMaricastana.jpg" />
+    <None Remove="IMAGENES\Bolso.jpg" />
+    <None Remove="IMAGENES\CamisaMangaLarga.jpg" />
+    <None Remove="IMAGENES\CamisetaMangaLarga.jpg" />
+    <None Remove="IMAGENES\CerrarLogin.png" />
+    <None Remove="IMAGENES\Contrasena.png" />
+    <None Remove="IMAGENES\dependienta.jpg" />
+    <None Remove="IMAGENES\Inicio.png" />
+    <None Remove="IMAGENES\Jersey.jpg" />
+    <None Remove="IMAGENES\LetrasMaricastana.jpg" />
+    <None Remove="IMAGENES\LogoMaricastana.png" />
+    <None Remove="IMAGENES\Maximizar.png" />
+    <None Remove="IMAGENES\Menu.png" />
+    <None Remove="IMAGENES\MiCuenta.png" />
+    <None Remove="IMAGENES\Minimizar.png" />
+    <None Remove="IMAGENES\ojo.png" />
+    <None Remove="IMAGENES\ondaMarron.png" />
+    <None Remove="IMAGENES\PantalonAncho.jpg" />
+    <None Remove="IMAGENES\publicoGeneral.jpg" />
+    <None Remove="IMAGENES\PuntoDeVentas.png" />
+    <None Remove="IMAGENES\Salir.png" />
+    <None Remove="IMAGENES\Usuario.png" />
+    <None Remove="IMAGENES\Usuarios.png" />
+    <None Remove="IMAGENES\ventasTotales.png" />
+    <None Remove="VISTAS\TPV.xaml~RF130f6cd.TMP" />
+    <None Remove="VISTAS\uc2j30fd.yep~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\Abrigo.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\administradora.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\anonimo.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\Articulos.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\ayuda.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\BannerMaricastana.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\Bolso.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\CamisaMangaLarga.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\CamisetaMangaLarga.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\CerrarLogin.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\Contrasena.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\dependienta.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\Inicio.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\Jersey.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\LetrasMaricastana.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\LogoMaricastana.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\Maximizar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\Menu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\MiCuenta.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\Minimizar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\ojo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\ondaMarron.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\PantalonAncho.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\publicoGeneral.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\PuntoDeVentas.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\Salir.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\Usuario.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\netcoreapp3.1\IMAGENES\Usuarios.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\Abrigo.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\articulosDisp.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\BannerMaricastana.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\Bolso.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\CamisaMangaLarga.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\CamisetaMangaLarga.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\Contrasena.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="bin\Debug\netcoreapp3.1\BannerMaricastana.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\administradora.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="IMAGENES\anonimo.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\CerrarLogin.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\dependienta.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\Jersey.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\LogoMaricastana.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="IMAGENES\ayuda.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="IMAGENES\Articulos.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="iTextSharp" Version="5.5.13.3" />
+    <PackageReference Include="LiveCharts" Version="0.9.7" />
+    <PackageReference Include="LiveCharts.wpf" Version="0.9.7" />
+    <PackageReference Include="LocalDb" Version="14.5.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.32" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.32">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="IMAGENES\Inicio.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\ojo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\ondaMarron.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\PantalonAncho.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\publicoGeneral.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\Usuario.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\ventasTotales.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <SplashScreen Include="IMAGENES\LetrasMaricastana.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </SplashScreen>
+    <Resource Include="IMAGENES\Maximizar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\Menu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\MiCuenta.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\Minimizar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\PuntoDeVentas.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\Salir.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="IMAGENES\Usuarios.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp3.1\IMAGENES\IconoMaricastana.ico" />
+    <Resource Include="bin\Debug\netcoreapp3.1\Manual de Usuario Maricastaña.pdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>
