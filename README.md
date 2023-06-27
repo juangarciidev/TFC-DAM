@@ -1,5 +1,5 @@
 # Mi TFC (Trabajo Fin de Ciclo) para el Ciclo Superior de DAM (Desarrollo de Aplicaciones Multiplaforma)
-## Este proyecto fue realizado durante el 2º curso de DAM desde Enero de 2023 hasta su presentación en Junio 2023
+## Este proyecto fue realizado durante el 2º curso de DAM desde Enero de 2023 hasta su presentación en Junio de 2023
  
 ## Importante leer🚨👇🏼
 - Podrás consultar toda la información del proyecto si entras en la carpeta **Documentación**.
